@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="thymeleaf-jar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../../../Fprogram/thymeleaf-jar" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/../../../../../Fprogram/thymeleaf-jar" recursive="false" />
+  </library>
+</component>
